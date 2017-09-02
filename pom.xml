@@ -10,7 +10,7 @@
 
     <repositories>
         <repository>
-            <id>CENTRAL</id>
+            <id>Central</id>
             <name>MAVEN_CENTRAL</name>
             <url>http://repo1.maven.org/maven2/</url>
         </repository>
