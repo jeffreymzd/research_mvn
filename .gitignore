@@ -1,2 +1,6 @@
-.idea/*
-research.iml
+.*
+*.iml
+**/target/*
+!.gitignore
+!.gitattributes
+*log.name*w
